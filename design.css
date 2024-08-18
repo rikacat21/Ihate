@@ -1,9 +1,9 @@
 <style>
-body { background: url(background.jpg) no-repeat; background-size:cover;}
+body { background: url(background.jpg) background-size:cover;}
 </style>
 h1 {
 	font-size: 10px;
-	color: #000000 !important; font-family: tahoma;
+	color: white !important; font-family: tahoma;
 	
 	
 }
@@ -15,7 +15,7 @@ h1 {
 
 h3 {
 	font-size: 20px; 
-	color: #000000 !important; font-family: arial;
+	color: white !important; font-family: arial;
 	width: 500px;
 }
 
